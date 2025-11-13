@@ -71,8 +71,8 @@
 - Internet connection for translation services
 
 ### Windows
-- Windows 10/11 (64-bit)
-- Intel, AMD, or Snapdragon processor
+- Windows 10/11 (x64)
+- Intel or AMD processor
 - 4GB RAM minimum (8GB recommended)
 - Internet connection required
 
@@ -122,7 +122,7 @@
 
 <div align="center">
   
-  [🚀 Subscribe to Pro](https://buy.stripe.com/14A3cwgyAgiMgan4EIgMw01)
+  [🚀 Subscribe to Pro](https://buy.stripe.com/4gM9AT8Tc2gK0Tq14Pg7e00?)
   
 </div>
 
