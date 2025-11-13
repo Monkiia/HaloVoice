@@ -8,6 +8,7 @@
   Break language barriers instantly with one-click translation
   
   [![Download](https://img.shields.io/badge/Download-macOS-blue?style=for-the-badge)](https://github.com/Monkiia/HaloVoice/releases/latest)
+  [![Download](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge)](https://github.com/Monkiia/HaloVoice/releases/latest)
   [![Website](https://img.shields.io/badge/Website-halovoice.app-green?style=for-the-badge)](https://halovoice.app)
 
 </div>
@@ -26,8 +27,10 @@
 ## 🚀 Quick Start
 
 1. **Download** the latest version from [Releases](https://github.com/Monkiia/HaloVoice/releases/latest)
-2. **Install** by opening the `.pkg` file (macOS)
-3. **Launch** HaloVoice from Applications
+2. **Install** the downloaded file:
+   - macOS: open the `.pkg` installer
+   - Windows: run the `.exe` installer and follow the setup wizard
+3. **Launch** HaloVoice from Applications (macOS) or the Start Menu (Windows)
 4. **Select** your source and target languages
 5. **Start** translating!
 
@@ -67,9 +70,10 @@
 - 4GB RAM minimum (8GB recommended)
 - Internet connection for translation services
 
-### Windows (Coming Soon)
-- Windows 10/11
-- 4GB RAM minimum
+### Windows
+- Windows 10/11 (64-bit)
+- Intel, AMD, or Snapdragon processor
+- 4GB RAM minimum (8GB recommended)
 - Internet connection required
 
 ## 🎯 Perfect For
