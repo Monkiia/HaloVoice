@@ -54,7 +54,8 @@
 5. Great for reaching international viewers on Twitch/YouTube
 
 ### 💼 With Teams/Zoom/Google Meet
-<img src="assets/teams.jpg" width="600" alt="Microsoft Teams / Meeting Apps Integration">
+  **Teams Mic Setup**<img src="assets/teams.jpg" width="600" alt="Microsoft Teams Integration">
+  **Zoom Mic setup**<img src="assets/zoom.png" width="600" alt="Zoom Integration">
 
 1. Open your meeting app **Settings**
 2. Navigate to **Audio** settings
