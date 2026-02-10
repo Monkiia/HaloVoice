@@ -1,163 +1,118 @@
 <div align="center">
   <img src="assets/icon.png" width="120" height="120" alt="HaloVoice Logo">
-  
-  # HaloVoice 🎙️
-  
-  **Real-time voice translation for streaming, gaming, and meetings**
-  
-  Break language barriers instantly with one-click translation
-  
-  [![Download](https://img.shields.io/badge/Download-macOS-blue?style=for-the-badge)](https://github.com/Monkiia/HaloVoice/releases/latest)
-  [![Download](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge)](https://github.com/Monkiia/HaloVoice/releases/latest)
-  [![Website](https://img.shields.io/badge/Website-halovoice.app-green?style=for-the-badge)](https://halovoice.app)
+
+  # HaloVoice
+
+  **Real-time AI Voice Translation for Streaming, Gaming, and Meetings**
+
+  Translate your voice in real-time across 30+ languages. Works with OBS, Discord, Zoom, Teams, and more.
+
+  [![Try It Free](https://img.shields.io/badge/Try_It_Free-Start_Now-brightgreen?style=for-the-badge)](https://console.halovoice.app)
+  [![Website](https://img.shields.io/badge/Website-halovoice.app-blue?style=for-the-badge)](https://halovoice.app)
 
 </div>
 
 ---
 
-## ✨ Features
+## Features
 
-- 🌍 **Real-time Translation** - Translate your voice instantly with minimal latency
-- 🔌 **Works Everywhere** - Compatible with Discord, OBS, Teams, Zoom, Google Meet, and more
-- 🎤 **Virtual Audio Device** - Creates a virtual microphone that outputs translated audio
-- 📝 **Live Captions** - Display translated text in real-time
-- ⚡ **Low CPU Usage** - Optimized for long streaming/gaming sessions
-- 🗣️ **Multiple Languages** - Support for 50+ languages worldwide
+- **Real-time AI Translation** - Translate your voice instantly across 30+ languages with under 200ms latency
+- **Voice Mod** - Change your voice style without changing your language
+- **Voice Studio** - Browse premium voices or create custom voice clones
+- **Crystal Clear Audio** - Advanced noise cancellation for professional sound quality
+- **Live Captions & Translation** - Real-time transcription and translated text display
+- **Works Everywhere** - Plug-and-play with OBS, Discord, Zoom, Teams, Slack, Google Meet, TikTok, and Steam
+- **Lightweight** - All processing happens in the cloud, keeping your CPU free
+- **30+ Languages** - English, Spanish, French, German, Japanese, Korean, Mandarin, and many more
 
-## 🚀 Quick Start
+## Quick Start
 
-1. **Download** the latest version from [Releases](https://github.com/Monkiia/HaloVoice/releases/latest)
-2. **Install** the downloaded file:
-   - macOS: open the `.pkg` installer
-   - Windows: run the `.exe` installer and follow the setup wizard
-3. **Launch** HaloVoice from Applications (macOS) or the Start Menu (Windows)
-4. **Select** your source and target languages
-5. **Start** translating!
+1. **Open** [console.halovoice.app](https://console.halovoice.app) in your browser
+2. **Sign in** with Google or Email
+3. **Select** your source and target languages
+4. **Click "START SESSION"** and start speaking
 
-## 📖 How to Use
+> For seamless integration with apps like Discord, OBS, and Zoom, you can optionally install the virtual audio driver from within the app.
 
-### 🎮 With Discord
+## Integrations
+
+HaloVoice works directly in your browser. To use your translated voice in other apps, install the optional virtual audio driver and select it as your microphone input.
+
+### With Discord
 <img src="assets/discord.png" width="600" alt="Discord Integration">
 
-1. Open **Discord Settings** → **Voice & Video**
-2. Select **"HaloVoice Virtual Microphone"** as Input Device
-3. Your voice will be translated in real-time for all your gaming sessions
-4. Perfect for international gaming teams and communities
+1. Open **Discord Settings** > **Voice & Video**
+2. Select **HaloVoice Virtual Microphone** as your Input Device
+3. Your voice is translated in real-time for all your gaming sessions
 
-### 📹 With OBS Studio
+### With OBS Studio
 <img src="assets/obs.png" width="600" alt="OBS Integration">
 
-1. Open **OBS Studio**
-2. Add **Audio Input Capture** source
-3. Select **"HaloVoice Virtual Microphone"**
-4. Your translated voice will be streamed to your audience
-5. Great for reaching international viewers on Twitch/YouTube
+1. In **OBS Studio**, add an **Audio Input Capture** source
+2. Select **HaloVoice Virtual Microphone**
+3. Your translated voice streams directly to your audience on Twitch, YouTube, or TikTok
 
-### 💼 With Teams/Zoom/Google Meet
-  **Teams Mic Setup**<img src="assets/teams.jpg" width="600" alt="Microsoft Teams Integration">
-  **Zoom Mic setup**<img src="assets/zoom.png" width="600" alt="Zoom Integration">
+### With Teams / Zoom / Google Meet
+**Teams Mic Setup**<img src="assets/teams.jpg" width="600" alt="Microsoft Teams Integration">
+**Zoom Mic Setup**<img src="assets/zoom.png" width="600" alt="Zoom Integration">
 
-1. Open your meeting app **Settings**
-2. Navigate to **Audio** settings
-3. Select **"HaloVoice Virtual Microphone"** as your microphone
-4. Speak in your language, participants hear the translation
-5. Break language barriers in business meetings instantly
+1. Open your meeting app's **Audio** settings
+2. Select **HaloVoice Virtual Microphone** as your microphone
+3. Speak in your language, participants hear the translation instantly
 
-## 💻 System Requirements
+Also works with **Slack**, **Google Meet**, and any app that accepts a microphone input.
 
-### macOS
-- macOS 10.15 (Catalina) or later
-- Apple Silicon (M1/M2/M3) or Intel processor
-- 4GB RAM minimum (8GB recommended)
-- Internet connection for translation services
+## Perfect For
 
-### Windows
-- Windows 10/11 (x64)
-- Intel or AMD processor
-- 4GB RAM minimum (8GB recommended)
-- Internet connection required
+- **Live Streaming** - Reach global audiences on Twitch, YouTube, and TikTok in their language
+- **Gaming** - Communicate with international teammates on Steam, Discord, and more
+- **Online Meetings** - Break language barriers on Zoom, Teams, Google Meet, and Slack
 
-## 🎯 Perfect For
-
-- 📺 **Live Streaming** - Reach global audience on Twitch/YouTube
-- 🎮 **Gaming** - Communicate with international teammates
-- 💼 **Online Meetings** - Break language barriers in business calls
-- 📚 **Education** - Teach or learn across languages
-- 🎬 **Content Creation** - Create multilingual content easily
-
-## ⚙️ Configuration
-
-### Language Settings
-- Source Language: Auto-detect or select specific language
-- Target Language: Choose from 50+ languages
-- Voice Settings: Adjust voice speed and pitch
-
-### Audio Settings
-- Input Device: Select your microphone
-- Output Device: Configure virtual audio output
-- Volume Control: Adjust translation volume
-
-## 🔧 Troubleshooting
-
-### No Audio Output?
-1. Check if HaloVoice Virtual Microphone is installed
-2. Grant microphone permissions in System Preferences
-3. Restart the application
-
-### Translation Not Working?
-1. Check internet connection
-2. Verify language settings
-3. Ensure microphone is working properly
-
-### High Latency?
-1. Close unnecessary applications
-2. Check internet speed
-3. Try selecting a closer server region
-
-## 💰 Pricing
+## Pricing
 
 | Plan | Price | Features |
 |------|-------|----------|
-| **Free Trial** | $0 | • 60 minutes daily<br>• All languages<br>• Full features |
-| **Pro** | $9.9/month | • Unlimited translation<br>• Priority support<br>• Early access to new features |
+| **Free** | $0 | 60 minutes/month, live captions & translation, works with OBS/Zoom/Discord |
+| **Pro** | $9.9/month | Unlimited translation, all languages, priority processing, premium voices, custom voice cloning, early access to new features |
+| **Enterprise** | Custom | Dedicated server, API access, SLA, 24/7 support, SSO integration |
 
 <div align="center">
-  
-  [🚀 Subscribe to Pro](https://buy.stripe.com/4gM9AT8Tc2gK0Tq14Pg7e00?)
-  
+
+  [Get Started Free](https://console.halovoice.app)
+
 </div>
 
-## 📝 Privacy
+## Privacy
 
 - Audio is processed securely
 - No recordings are stored
 - GDPR compliant
 - See our [Privacy Policy](https://halovoice.app/#privacy)
 
-## 🤝 Support
+## Support
 
 - Email: support@halovoice.app
 - [Report Issues](https://github.com/Monkiia/HaloVoice/issues)
-- [Documentation](https://halovoice.app)
+- [Website](https://halovoice.app)
 
-## 📜 License
+## License
 
-Copyright © 2025 HaloVoice. All rights reserved.
+Copyright 2026 HaloVoice. All rights reserved.
 
 ---
 
 <div align="center">
-  
-  **Made with ❤️ for creators, educators, and remote teams worldwide**
-  
-  <a href="https://github.com/Monkiia/HaloVoice/releases/latest">
-    <img src="https://img.shields.io/github/v/release/Monkiia/HaloVoice?style=flat-square" alt="Latest Release">
-  </a>
+
+  **Made for creators, gamers, and remote teams worldwide**
+
   <a href="https://github.com/Monkiia/HaloVoice/issues">
     <img src="https://img.shields.io/github/issues/Monkiia/HaloVoice?style=flat-square" alt="Issues">
   </a>
   <a href="https://halovoice.app">
     <img src="https://img.shields.io/badge/website-halovoice.app-blue?style=flat-square" alt="Website">
   </a>
-  
+  <a href="https://console.halovoice.app">
+    <img src="https://img.shields.io/badge/app-Try_Free-brightgreen?style=flat-square" alt="Try Free">
+  </a>
+
 </div>
