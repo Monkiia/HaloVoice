@@ -14,29 +14,6 @@
 
 ---
 
-## 🎮 See It in Action
-
-<div align="center">
-
-  <a href="https://www.youtube.com/shorts/fkarPVR5gPU">
-    <img src="assets/rust-demo-thumb.jpg" width="270" alt="Watch: real-time voice translation while playing Rust">
-  </a>
-
-  **▶ Watch a player talk with international teammates in Rust — translated live by HaloVoice**
-
-</div>
-
-## ✨ What's New
-
-- **Two-Way Translation with Voice Playback** - Translation now works in both directions. *Understand what others say* turns the other side's speech into live subtitles in your language — or lets you **hear it spoken aloud in your language** (Pro), so you can stay focused on the game or meeting instead of reading.
-- **Three Optimized Modes** - Pick your scenario and HaloVoice tunes itself:
-  - **Gaming Mode** - lowest latency with minimal impact on system resources
-  - **Streaming Mode** - studio-grade audio processing and enhanced voice clarity for live broadcasts
-  - **Meeting Mode** - balanced audio with enhanced noise suppression for professional calls
-- **Movable Subtitle Overlay** - A floating, draggable subtitle bar (desktop app) that stays on top of your game, stream, or meeting — position live translations anywhere on screen.
-- **AI Precision Control** - Choose your own balance between translation speed and accuracy in Settings.
-- **Refer & Earn** - Invite friends and you both get 7 days of unlimited premium voices.
-
 ## Features
 
 - **Real-time AI Translation** - Translate your voice instantly across 30+ languages with under 200ms latency
@@ -49,6 +26,29 @@
 - **Works Everywhere** - Plug-and-play with OBS, Discord, Zoom, Teams, Slack, Google Meet, TikTok, and Steam
 - **Lightweight** - All processing happens in the cloud, keeping your CPU free
 - **30+ Languages** - English, Spanish, French, German, Japanese, Korean, Mandarin, and many more
+
+## ✨ What's New
+
+- **Two-Way Translation with Voice Playback** - Translation now works in both directions. *Understand what others say* turns the other side's speech into live subtitles in your language — or lets you **hear it spoken aloud in your language** (Pro), so you can stay focused on the game or meeting instead of reading.
+- **Three Optimized Modes** - Pick your scenario and HaloVoice tunes itself:
+  - **Gaming Mode** - lowest latency with minimal impact on system resources
+  - **Streaming Mode** - studio-grade audio processing and enhanced voice clarity for live broadcasts
+  - **Meeting Mode** - balanced audio with enhanced noise suppression for professional calls
+- **Movable Subtitle Overlay** - A floating, draggable subtitle bar (desktop app) that stays on top of your game, stream, or meeting — position live translations anywhere on screen.
+- **AI Precision Control** - Choose your own balance between translation speed and accuracy in Settings.
+- **Refer & Earn** - Invite friends and you both get 7 days of unlimited premium voices.
+
+## 🎮 See It in Action
+
+<div align="center">
+
+  <a href="https://www.youtube.com/shorts/fkarPVR5gPU">
+    <img src="assets/rust-demo-thumb.jpg" width="270" alt="Watch: real-time voice translation while playing Rust">
+  </a>
+
+  **▶ Watch a player talk with international teammates in Rust — translated live by HaloVoice**
+
+</div>
 
 ## Quick Start
 
