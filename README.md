@@ -14,6 +14,18 @@
 
 ---
 
+## 🎮 See It in Action
+
+<div align="center">
+
+  <a href="https://www.youtube.com/shorts/fkarPVR5gPU">
+    <img src="assets/rust-demo-thumb.jpg" width="270" alt="Watch: real-time voice translation while playing Rust">
+  </a>
+
+  **▶ Watch a player talk with international teammates in Rust — translated live by HaloVoice**
+
+</div>
+
 ## ✨ What's New
 
 - **Two-Way Translation with Voice Playback** - Translation now works in both directions. *Understand what others say* turns the other side's speech into live subtitles in your language — or lets you **hear it spoken aloud in your language** (Pro), so you can stay focused on the game or meeting instead of reading.
