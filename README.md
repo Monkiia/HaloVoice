@@ -14,13 +14,26 @@
 
 ---
 
+## ✨ What's New
+
+- **Two-Way Translation with Voice Playback** - Translation now works in both directions. *Understand what others say* turns the other side's speech into live subtitles in your language — or lets you **hear it spoken aloud in your language** (Pro), so you can stay focused on the game or meeting instead of reading.
+- **Three Optimized Modes** - Pick your scenario and HaloVoice tunes itself:
+  - **Gaming Mode** - lowest latency with minimal impact on system resources
+  - **Streaming Mode** - studio-grade audio processing and enhanced voice clarity for live broadcasts
+  - **Meeting Mode** - balanced audio with enhanced noise suppression for professional calls
+- **Movable Subtitle Overlay** - A floating, draggable subtitle bar (desktop app) that stays on top of your game, stream, or meeting — position live translations anywhere on screen.
+- **AI Precision Control** - Choose your own balance between translation speed and accuracy in Settings.
+- **Refer & Earn** - Invite friends and you both get 7 days of unlimited premium voices.
+
 ## Features
 
 - **Real-time AI Translation** - Translate your voice instantly across 30+ languages with under 200ms latency
+- **Two-Way Translation** - Your voice is translated for others, and their speech is translated back to you as subtitles or spoken audio
+- **Scenario Modes** - Gaming, Streaming, and Meeting modes, each optimized for its environment
 - **Voice Mod** - Change your voice style without changing your language
 - **Voice Studio** - Browse premium voices or create custom voice clones
 - **Crystal Clear Audio** - Advanced noise cancellation for professional sound quality
-- **Live Captions & Translation** - Real-time transcription and translated text display
+- **Live Captions & Movable Overlay** - Real-time transcription and translated text, with a draggable on-top subtitle overlay in the desktop app
 - **Works Everywhere** - Plug-and-play with OBS, Discord, Zoom, Teams, Slack, Google Meet, TikTok, and Steam
 - **Lightweight** - All processing happens in the cloud, keeping your CPU free
 - **30+ Languages** - English, Spanish, French, German, Japanese, Korean, Mandarin, and many more
